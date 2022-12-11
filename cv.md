@@ -7,6 +7,9 @@
 * Discord: pilana5minut#5136
 
 # About me
+* Date of birth: 1987.12.10<br>
+* Born: Russia, Anapa<br>
+* location: Russia, St. Petersburg<br>
 
 # Skills
 
