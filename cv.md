@@ -24,6 +24,7 @@ console.log(result);
 ```
 
 # Work experience
+My work experience has nothing to do with Web development.
 
 # Education
 
