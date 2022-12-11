@@ -12,6 +12,7 @@
 * location: Russia, St. Petersburg<br>
 
 # Skills
+HTML, CSS, Git, БЭМ
 
 # Code examples
 
