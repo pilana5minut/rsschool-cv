@@ -27,5 +27,8 @@ console.log(result);
 My work experience has nothing to do with Web development.
 
 # Education
+Sep. 2004 – July 2008<br>
+Maintenance of computer equipment and computer networks<br>
+Novorossiysk College of Construction and Economics
 
 # Languages
