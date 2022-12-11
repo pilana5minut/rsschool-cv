@@ -32,3 +32,5 @@ Maintenance of computer equipment and computer networks<br>
 Novorossiysk College of Construction and Economics
 
 # Languages
+* Russian: native
+* English: elementary
