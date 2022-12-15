@@ -48,6 +48,16 @@
 
 .site-section {
   width: 50%;
+  padding: 20px;
+  background-color: var(--color-section);
+  border: 1px solid var(--color-section-border);
+  border-radius: 10px;
+}
+
+.site-section__title {
+  margin-bottom: 20px;
+  color: var(--color-title);
+  letter-spacing: 2px;
 }
 
 .footer {
@@ -56,10 +66,6 @@
   align-items: center;
   padding: 10px 0;
   font-size: 12px;
-}
-
-.site-section__paragraph {
-  font-size: 20px;
 }
 
 .footer__list {

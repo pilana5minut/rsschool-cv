@@ -1,15 +1,16 @@
-@import url("overall.css");
 @import url("global.css");
+@import url("variables.css");
 @import url("fonts.css");
+@import url("overall.css");
+/* @import url("bgc.css"); */
 
 /* IMPORT COMPONENTS */
 
-/* @import url("../styles/bgc.css"); */
-@import url("../styles/section-sammary.css");
-@import url("../styles/section-contacts.css");
-@import url("../styles/section-skills.css");
-@import url("../styles/section-code-example.css");
-@import url("../styles/section-courses.css");
-@import url("../styles/section-projects.css");
-@import url("../styles/section-education.css");
-@import url("../styles/section-language-level.css");
+@import url("components/section-sammary.css");
+@import url("components/section-contacts.css");
+@import url("components/section-skills.css");
+@import url("components/section-code-example.css");
+@import url("components/section-courses.css");
+@import url("components/section-projects.css");
+@import url("components/section-education.css");
+@import url("components/section-language-level.css");

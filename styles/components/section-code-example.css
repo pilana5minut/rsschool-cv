@@ -4,7 +4,7 @@
 
 .code-example__container {
   font-size: 20px;
-  background-color: rgb(133, 133, 133);
-  border: 2px solid #000000;
+  background-color: rgb(30, 35, 40);
+  border: 2px solid var(--color-border);
   border-radius: 10px;
 }

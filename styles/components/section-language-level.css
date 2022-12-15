@@ -1,8 +1,8 @@
+.site-section {}
+
 .language-level {}
 
-.language-level__title {
-  padding-bottom: 20px;
-}
+.site-section__title {}
 
 .language-level__list {}
 
