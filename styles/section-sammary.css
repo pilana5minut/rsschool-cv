@@ -1,0 +1,22 @@
+.summary {
+  display: flex;
+  align-items: start;
+}
+
+.summary__photo {
+  width: 400px;
+  height: 400px;
+}
+
+.summary__about {
+  padding: 20px;
+  font-size: 20px;
+}
+
+.summary__title {
+  margin-bottom: 20px;
+}
+
+.summary__paragraph {
+  margin-bottom: 10px;
+}

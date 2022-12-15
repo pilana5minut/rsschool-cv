@@ -1,0 +1,10 @@
+.code-example__title {
+  padding-bottom: 20px;
+}
+
+.code-example__container {
+  font-size: 20px;
+  background-color: rgb(133, 133, 133);
+  border: 2px solid #000000;
+  border-radius: 10px;
+}

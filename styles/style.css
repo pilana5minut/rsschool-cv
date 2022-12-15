@@ -1,3 +1,15 @@
 @import url("overall.css");
 @import url("global.css");
 @import url("fonts.css");
+
+/* IMPORT COMPONENTS */
+
+/* @import url("../styles/bgc.css"); */
+@import url("../styles/section-sammary.css");
+@import url("../styles/section-contacts.css");
+@import url("../styles/section-skills.css");
+@import url("../styles/section-code-example.css");
+@import url("../styles/section-courses.css");
+@import url("../styles/section-projects.css");
+@import url("../styles/section-education.css");
+@import url("../styles/section-language-level.css");

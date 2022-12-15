@@ -1,0 +1,13 @@
+.courses {}
+
+.courses__title {
+  padding-bottom: 20px;
+}
+
+.courses__list {}
+
+.courses__item {
+  padding-bottom: 10px;
+}
+
+.courses__link {}
