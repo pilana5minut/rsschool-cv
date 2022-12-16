@@ -3,14 +3,3 @@
 @import url("fonts.css");
 @import url("overall.css");
 /* @import url("bgc.css"); */
-
-/* IMPORT COMPONENTS */
-
-@import url("components/section-sammary.css");
-@import url("components/section-contacts.css");
-@import url("components/section-skills.css");
-@import url("components/section-code-example.css");
-@import url("components/section-courses.css");
-@import url("components/section-projects.css");
-@import url("components/section-education.css");
-@import url("components/section-language-level.css");
