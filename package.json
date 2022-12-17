@@ -1,0 +1,24 @@
+{
+  "name": "rsschool-cv",
+  "version": "1.0.0",
+  "description": "https://pilana5minut.github.io/rsschool-cv/cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilana5minut/rsschool-cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilana5minut/rsschool-cv/issues"
+  },
+  "homepage": "https://github.com/pilana5minut/rsschool-cv#readme",
+  "devDependencies": {
+    "stylelint-config-htmlacademy": "^1.1.4",
+    "stylelint-order-htmlacademy": "2.0.6"
+  }
+}
